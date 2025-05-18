@@ -5,7 +5,8 @@
 </p>
 
 A collection of useful AI Agents for use with **Claude Code** (or any other **SWE** agent)
-The main goal of this repository is to collect and index useful "AI Agents" for use with Claude Code for efficient and fast software development.
+
+The main goal of this repository is to collect and index useful "AI Agents" for fast and efficient software development.
 Currently it contains a single agent that I wrote and use, but I will add more as I write and use them or find any other ones.
 Contributions are more than welcomed, cheers!
 
