@@ -21,3 +21,8 @@ This is the first version I wrote and have tested on a couple of decently sized 
 Suggestions and improvements based on your usage are welcome.
 
 The prompt is located in the [Project_Analyzer_v1.md](Project_Analyzer_v1.md) file.
+
+### Example usage
+```
+I want you to read, understand, follow and execute instructions located in the @ProjectAnalyzer.md file.
+```
