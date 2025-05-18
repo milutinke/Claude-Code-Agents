@@ -13,7 +13,7 @@ Contributions are more than welcomed, cheers!
 
 ## Agents
 
-## Project Analyzer
+### Project Analyzer
 
 The purpose of this agent is to analyze a code base and then create a detailed documentation for it in the `.aidocs` folder, so people can be onboarded on to a project fast, as well as to use it as a context for any other agents or feature implementations, bug fixes and similar.
 This is the first version I wrote and have tested on a couple of personal projects that are decently sized, however I haven't tested it yet on a big code base, that I plan to do soon and fix any issues I encounter with the prompt.
